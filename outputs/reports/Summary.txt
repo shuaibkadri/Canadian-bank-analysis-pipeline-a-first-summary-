@@ -1,0 +1,11 @@
+Canadian Banks Analysis — Summary
+
+This analysis compares major Canadian banks, using both fundamental metrics (ROE, ROA, leverage) and market performance (1-year returns).
+
+Findings:
+- A weak positive relationship exists between ROE and stock returns
+- Larger banks like RBC show strong profitability but moderate returns, suggesting stable market positioning
+- Some smaller banks show stronger returns relative to fundamentals, indicating possible market-driven expectations
+
+Conclusion:
+Market pricing is influenced by more than profitability alone, including growth expectations and risk perception.
